@@ -7,11 +7,15 @@ Date: 9.20.20
   namely my swipe() method and my move() method. We also worked on the opening screen together
 ------------------------------------------------------------------------------------------------
 
+	"Swipe" the board by using the normal wasd keys. 
+	r to restart
+	q to quit.
+
 I'm really proud of how those two methods turned out, I hadn't considered going into this 
 how many different scenarios there would be in this game and how important the order of operations 
 would be. These are more detailed notes on what the algorithms are doing behind the scenes 
 
-	https://imgur.com/a/sTrI2fi
+https://imgur.com/a/sTrI2fi
 
 Utilities designs the methods I call upon in the text.2048 file. 
 It's all pretty straight forward, and mostly commented throughout.
